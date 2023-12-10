@@ -1,16 +1,11 @@
-Hello :]
+ 🌟 Hey there, I'm Komal!
 
-<!--
-**komaljeengar/komaljeengar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Toys
 
-Here are some ideas to get you started:
+- Languages: JavaScript, C, C++ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about agustd 
-- 📫 How to reach me: ...
-- 😄 Pronouns: she her 
-- ⚡ Fun fact: I love music
--->
+- Virtual Reality 
+- 3D Game Design 
+- 3D Game Development 
+- AI Chatbots 
+
