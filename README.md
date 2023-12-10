@@ -1,6 +1,6 @@
  🌟 Hey there, I'm Komal!
 
-## 💻 Tech Toys
+## 💻 Tech 
 
 - Languages: JavaScript, C, C++ 
 
@@ -8,4 +8,5 @@
 - 3D Game Design 
 - 3D Game Development 
 - AI Chatbots 
-
+- Embedded System  
+- Firmware 
